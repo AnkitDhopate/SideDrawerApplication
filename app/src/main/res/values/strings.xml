@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SideDrawer Application</string>
+    <string name="home">Home</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="explore">Explore</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
